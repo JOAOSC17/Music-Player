@@ -1,2 +1,2 @@
 # Music Player
- Music Player basic javascript demo.
+Um player básico de áudio
