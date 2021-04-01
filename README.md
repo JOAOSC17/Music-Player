@@ -1,2 +1,5 @@
 # Music Player
-Um player básico de áudio
+## Technologies
+- HTML
+- CSS 
+- JavaScript 
