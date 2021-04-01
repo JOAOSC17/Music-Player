@@ -10,4 +10,5 @@ execute pelo VS code
 ~~~
 ## 📝 License
 This project is under the MIT license. See the LICENSE for more information.
-Made with ♥ by Luke Morales 👋 [Get in touch!]<www.linkedin.com/in/joaocosta123>
+Made with ♥ by Luke Morales 👋 [Get in touch!]
+[exemplo](www.linkedin.com/in/joaocosta123)
