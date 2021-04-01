@@ -5,7 +5,7 @@ Nice design of a responsive player's music website :musical_score: .For mobile t
 - CSS 
 - JavaScript 
 ## ℹ️ How To Use
-~~~ #Clone this repository
+~~~ # Clone this repository
 # Install VS Code
 # Run the Website in VS Code
 ~~~
