@@ -1,5 +1,6 @@
 # Music Player
-## Technologies
+## 🚀 Technologies
 - HTML
 - CSS 
 - JavaScript 
+## ℹ️ How To Use
