@@ -14,10 +14,10 @@ export default [
     file: "Ladyfingers.mp3",
   },
   {
-    title: "Bird",
-    artist: "Mickael Laurence",
-    cover: "mik.jpg",
-    file: "Bird.mp3",
+    title: "Für Elise",
+    artist: "Ludwig van Beethoven",
+    cover: "Beethoven.webp",
+    file: "Für Elise.mp3",
   },
 ];
   
